@@ -1,0 +1,63 @@
+.forcolor{
+    color:white;
+}
+.img-size{
+    width:100%;
+    height:100%;
+}
+.divheight{
+    height:400px;
+}
+.fbold{
+    font-weight: bold;
+}
+.img-size1{
+    width:100%;
+}
+.martop{
+    margin-top: 20px;
+}
+.img-size2{
+    width:100%;
+}
+.martop1{
+    margin-top: 50px;
+}
+.martop2{
+    margin-top:30px;
+}
+.divheight2{
+    background-image: url("../banner1.png");
+    height:400px;
+}
+.divheight1{
+    background-image: url("../banner1.png");
+}
+.navbarop{
+    
+     opacity: 0.6;
+}
+.fbold1{
+    font-weight: bold;
+    font-size: 20px;
+}
+.fbold2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.padleft{
+   padding-left: 10px; 
+}
+.padleft1{
+   padding-left: 0px; 
+}
+.hrsize{
+     height: 1px;
+    background-color:darkgray;
+}
+.marg-left{
+ margin-left: 15px;   
+}
+.martop3{
+ margin-top: 10px;   
+}
